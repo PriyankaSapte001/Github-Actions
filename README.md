@@ -1,3 +1,4 @@
+![CI](https://github.com/PriyankaSapte001/python-cpp-ci-pipeline/actions/workflows/ci.yml/badge.svg)
 # Github-Actions
 Repository to kick start your journey with GitHub Actions
 
